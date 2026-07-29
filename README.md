@@ -23,16 +23,11 @@ To identify common web vulnerabilities like SQL Injection and XSS in web forms.
   - >Cross-Site Scripting (XSS)
 -> Logs any detected vulnerabilities to `report.txt`
 
-## Folder:-
-- `Web vulnerablity scanner/`
-
-
-
 ## Final Notes:-
 -> Each project was built individually, following Elevate Labs guidelines.
 -> Git was used for version control and project management.
 -> This repository reflects strong hands-on skills in ethical hacking, encryption, Python, and security automation.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ## Submitted by:- BATTU HARSHA VARDHAN REDDY
